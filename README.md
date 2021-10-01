@@ -9,4 +9,4 @@ I'm Allison.
 - 😄 Pronouns: She/her/hers
 - 🐈 Pets: Picasso and LJ, the best cats ever
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=allisonletts&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![My Stats](https://github-readme-stats.vercel.app/api?username=allisonletts&show_icons=true&title_color=000&icon_color=333&text_color=111&bg_color=fff)
