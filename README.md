@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Allison.
-- 🔭 I’m currently working on a few projects in the Salesforce Open Source Commons (and my day job at @attain-ssg where I support nonprofits and universities!)
+- 🔭 I’m currently working on a few projects in the Salesforce Open Source Commons (and my day job at [@attain-ssg](https://github.com/attain-ssg) where I support nonprofits and universities!)
 - 🌱 I’m currently re-learning Python
 - 🧑‍🤝‍🧑 I’m looking to collaborate on [realistic-seeming fake data for higher ed](https://github.com/SFDO-Community-Sprints/Snowfakery-Edu)
 - 🤔 I’m looking for help with improving the structure of my repos and writing better code
