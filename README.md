@@ -2,10 +2,10 @@
 
 I'm Allison.
 - 🔭 I’m currently working on a few projects in the Salesforce Open Source Commons (and my day job at @attain-ssg where I support nonprofits and universities!)
-- 🌱 I’m currently learning [all sorts of things (and blogging about it)!](https://allisonletts.github.io/learning/)
-- 👯 I’m looking to collaborate on [realistic-seeming fake data for higher ed](https://github.com/allisonletts/faker_highered)
+- 🌱 I’m currently re-learning Python
+- 🧑‍🤝‍🧑 I’m looking to collaborate on [realistic-seeming fake data for higher ed](https://github.com/SFDO-Community-Sprints/Snowfakery-Edu)
 - 🤔 I’m looking for help with improving the structure of my repos and writing better code
-- 💬 Ask me about Salesforce and SFDX/CCI - I'm not an expert in SFDX/CCI, but I'm very happy to help!
+- 💬 Ask me about Salesforce and Snowfakery
 - 😄 Pronouns: She/her/hers
 - 🐈 Pets: Picasso and LJ, the best cats ever
 
